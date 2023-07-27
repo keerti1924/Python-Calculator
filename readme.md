@@ -30,11 +30,13 @@ For Linux
 
 </ul>
 
+
 # Built in
 <ul> <li> python 3.x  <br/></li> <li> tkinter python <br/> </li> </ul>
 
 # How to use calculator
 
-To use Calculator, you just need to enter a valid math expression using your mouse and then press Enter or click on the = sign:
+To use Calculator, you just need to enter a valid math expression using your mouse and then press Enter or click on the = sign
 
-![Screenshot](preview.mp4)
+https://github.com/keerti1924/Python-Calculator/assets/138362568/b17a85ef-24e2-4213-aa3c-9636767d4d0a
+
